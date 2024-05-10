@@ -49,10 +49,6 @@ Ensure you have these tools installed before using this project:
 4. **Configure Network in `hardhat.config.ts`:**
    Set up the network settings to enable deployment to different networks
 
-   ```
-
-   ```
-
 ## Usage
 
 1. **Compile the Contracts:**Use Hardhat to compile the contracts.
