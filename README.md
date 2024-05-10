@@ -29,13 +29,15 @@ Ensure you have these tools installed before using this project:
 
 ## Installation
 
-1. **Clone the Repository:**Clone the project repository and navigate into its folder.
+1. **Clone the Repository:**
+   Clone the project repository and navigate into its folder.
 
    ```bash
    git clone https://github.com/your-repo/core-contract.git
    cd core-contract
    ```
-2. **Install Dependencies:**Install the required Node.js packages.
+2. **Install Dependencies:**
+   Install the required Node.js packages.
 
    ```bash
    npm install
@@ -51,12 +53,14 @@ Ensure you have these tools installed before using this project:
 
 ## Usage
 
-1. **Compile the Contracts:**Use Hardhat to compile the contracts.
+1. **Compile the Contracts:**
+   Use Hardhat to compile the contracts.
 
    ```bash
    npx hardhat compile
    ```
-2. **Deploy Contracts:**Run the deployment script to deploy both SpaceRoomManager and VotingManager contracts. Specify the network by replacing `your_network` with the desired one.
+2. **Deploy Contracts:**
+   Run the deployment script to deploy both SpaceRoomManager and VotingManager contracts. Specify the network by replacing `your_network` with the desired one.
 
    ```bash
    npx hardhat run scripts/deploy.js --network your_network
