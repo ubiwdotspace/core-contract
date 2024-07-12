@@ -30,7 +30,7 @@ Ensure you have these tools installed before using this project:
 1. **Clone the Repository:**  
    Clone the project repository and navigate into its folder.
    ```bash
-   git clone https://github.com/your-repo/core-contract.git
+   git clone https://github.com/ubiwdotspace/core-contract.git
    cd core-contract
    ```
 
@@ -77,10 +77,10 @@ Ensure you have these tools installed before using this project:
 Addresses of the deployed contracts can be found in `deployedContract.txt`. Here are their latest links on Etherscan:
 
 - **SpaceRoomManager**: (verified)
-  [https://sepolia.etherscan.io/address/0xA428A805310A82BD8cf060725882128C4Bb602A1#code](https://sepolia.etherscan.io/address/0xA428A805310A82BD8cf060725882128C4Bb602A1#code)
+  [https://sepolia.etherscan.io/address/0x29660d65DF08Fbdcef1a98Da3087d753d7CDc5Bd#code](https://sepolia.etherscan.io/address/0x29660d65DF08Fbdcef1a98Da3087d753d7CDc5Bd#code)
 
 - **VotingManager**: (verified)
-  [https://sepolia.etherscan.io/address/0x29660d65DF08Fbdcef1a98Da3087d753d7CDc5Bd#code](https://sepolia.etherscan.io/address/0x29660d65DF08Fbdcef1a98Da3087d753d7CDc5Bd#code)
+  [https://sepolia.etherscan.io/address/0x056fAC3BeF454987DdE764886C11e795F48837B8#code](https://sepolia.etherscan.io/address/0x056fAC3BeF454987DdE764886C11e795F48837B8#code)
 
 ## Troubleshooting
 
